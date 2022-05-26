@@ -1,0 +1,21 @@
+{
+  "name": "acf discourse theme",
+  "license_url": "https://github.com/belle422/acf-disourse-theme/blob/main/LICENSE",
+  "about_url": "https://some.url.com",
+  "author": "Sara",
+  "theme_version": "1.0",
+  "color_schemes": {
+    "acf-colours": {
+      "primary": "000000",
+      "secondary": "ffffff",
+      "tertiary": "68a5d9",
+      "quaternary": "7b3e29",
+      "header background": "ffffff",
+      "header primary": "000000",
+      "highlight": "fdee7a",
+      "danger": "7b3e29",
+      "success": "f4b5b9",
+      "love": "f4b5b9",
+    }
+  }
+}
