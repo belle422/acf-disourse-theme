@@ -1,9 +1,20 @@
 {
   "name": "acf discourse theme",
+  "about_url": null,
   "license_url": "https://github.com/belle422/acf-disourse-theme/blob/main/LICENSE",
-  "about_url": "https://some.url.com",
-  "author": "Sara",
-  "theme_version": "1.0"
+  "color_schemes": {
+    "acf-discourse": {
+    "primary": "454545",
+    "secondary": "F9F2F0",
+    "tertiary": "7B3E29",
+    "quaternary": "F4B5B9",
+    "header_background": "ffffff",
+    "header_primary": "111111",
+    "highlight": "FDEE7A",
+    "danger": "E7B140",
+    "success": "68A5D9",
+    "love": "F4B5B9",
     }
-  }
+  },
+  "components": ["https://github.com/discourse/discourse-showcased-categories.git","https://github.com/discourse/discourse-search-banner.git"]
 }
