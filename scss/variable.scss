@@ -1,0 +1,9 @@
+@mixin border-radius {
+  border-radius: 10px;
+}
+
+$color-white: #ffffff;
+$color-black: #000000;
+$color-box-shadow: #cecece;
+$color-square-gradient: linear-gradient(4 deg, rgba(253, 240, 241) 55%, rgba(222, 235, 247) 100%);
+$color-square-webkit-gradient: -webkit-linear-gradient(4 deg, rgba(253, 240, 241) 55%, rgba(222, 235, 247) 100%);
